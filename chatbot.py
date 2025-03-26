@@ -7,9 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1GWIGUXwQBVkteu06FiSOoA7MGBYlmvfA
 """
 
-!pip install streamlit
 
-!pip install langchain_google_genai
 
 import streamlit as st
 import google.generativeai as genai
