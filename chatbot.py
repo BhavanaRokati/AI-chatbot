@@ -40,7 +40,7 @@ with col2:
 
 
 # Configure Google Gemini API
-genai.configure(api_key="AIzaSyCDhtBmRgD88X1VX8TTF30C9Iixc2fVpw0")
+genai.configure(api_key="AIzaSyBkxnuIbA8tw7Q8zIdB_ZQqyhdTrWrsr2Q")
 
 # Initialize LangChain's Gemini Model
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-pro-latest", google_api_key=API_KEY)
