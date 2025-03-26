@@ -31,7 +31,7 @@ st.markdown("""
 
 
 col1, col2, col3 = st.columns([1, 3, 1])
-image_url = "https://raw.githubusercontent.com/Abhiram4u/ai_conversational_ds_tutor/main/dstutor.png"
+image_url = "https://www.google.com/search?q=data+science+images&sca_esv=2a2a93e8be91f013&rlz=1C1CHBF_enIN998IN998&udm=2&biw=1280&bih=593&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBjLjqIC1CYKD9D-DQAQS3Z598VAVBnbpHrmLO7c8q4i29MHIoj62rC0KLNSn9Sz5z510HzJmiV_dBAI9-EGwELHB_ABZMGczxCnF_toY5VjY96XAutVWiNwSb0PsQMPXAC0u_MrglQ7aGDm5cC2WljxoABqoqHOqHGB3LjacXo3okbDJrg&sxsrf=AHTn8zqYXcW2etE5_P5XZOVh2qM0pXHGvw%3A1742970610818&ei=8p7jZ-KwMcCVseMPoZe72Ac&oq=data+science+im&gs_lp=EgNpbWciD2RhdGEgc2NpZW5jZSBpbSoCCAAyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESPQ0UPMGWKkbcAJ4AJABAJgBsgKgAcYHqgEHMC4xLjIuMbgBAcgBAPgBAZgCBqAC8QfCAgcQIxgnGMkCwgIIEAAYgAQYsQPCAgYQABgHGB7CAgoQABiABBhDGIoFwgINEAAYgAQYsQMYQxiKBcICBxAAGIAEGAqYAwCIBgGSBwcyLjEuMi4xoAfRGbIHBzAuMS4yLjG4B-AH&sclient=img#vhid=x7FmwLMpMpUhzM&vssid=mosaic"
 with col2:
 
     st.image(image_url, use_container_width=True)
